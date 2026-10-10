@@ -1,0 +1,10 @@
+pymc
+numpyro
+jax
+arviz
+numpy
+pandas
+matplotlib
+scikit-learn
+imbalanced-learn
+jupyter
